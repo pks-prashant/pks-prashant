@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pks-prashant
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on c++ projects
+- 🌱 I’m currently learning ASP.NET.
+- 💞️ I’m looking to collaborate on ASP.NET projects
 - 📫 How to reach me ...(pkslgw30@gmail.com)
 
 <!---
